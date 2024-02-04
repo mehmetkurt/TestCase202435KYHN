@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeyhanMigrationWindowsVersion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c7ef72669aebcf3a8d488e4696d91feb9a184a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeyhanMigrationWindowsVersion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeyhanMigrationWindowsVersion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
